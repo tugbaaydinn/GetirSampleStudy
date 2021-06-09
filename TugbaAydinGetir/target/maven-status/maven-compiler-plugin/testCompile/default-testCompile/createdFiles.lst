@@ -1,0 +1,16 @@
+com\tugbaaydin\Getir\tests\BasketTest.class
+com\tugbaaydin\Getir\util\Utility$Direction.class
+com\tugbaaydin\Getir\pageModel\android\CategoryDetailPage.class
+com\tugbaaydin\Getir\tests\SelectTest.class
+com\tugbaaydin\Getir\runner\cucumber.class
+com\tugbaaydin\Getir\util\Utility$1.class
+com\tugbaaydin\Getir\pageModel\contracts\ICategoryDetailPage.class
+com\tugbaaydin\Getir\pageModel\contracts\IBasketTestPage.class
+com\tugbaaydin\Getir\pageModel\contracts\ISplashPage.class
+com\tugbaaydin\Getir\util\Utility.class
+com\tugbaaydin\Getir\pageModel\android\HomePage.class
+com\tugbaaydin\Getir\pageModel\android\SplashPage.class
+com\tugbaaydin\Getir\pageModel\android\BasketPage.class
+com\tugbaaydin\Getir\tests\SplashTest.class
+com\tugbaaydin\Getir\pageModel\contracts\ISelectTestPage.class
+com\tugbaaydin\Getir\pageModel\contracts\IHomePage.class
